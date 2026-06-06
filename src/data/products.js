@@ -31,7 +31,7 @@ export const products = [
   },
   {
     id: 4,
-    name: "Smortwatch",
+    name: "Smartwatch",
     price: 249,
     category: "Electronics",
     image: "/images/smartwatch.png",
